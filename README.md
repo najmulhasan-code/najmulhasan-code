@@ -6,11 +6,4 @@
 - 🌱 **Currently working on**: 
   - Cross-linguistic Speech Emotion Recognition research
   - Cryptography and cybersecurity research
-
-## 💼 Professional Experience
-- **Undergraduate Research Assistant** (May 2024 - Present)
-  - Focus on **Cross-linguistic Speech Emotion Recognition (SER)**
-- **Undergraduate Research Assistant** (May 2024 - Present)
-  - Focus on **Cryptography and Cybersecurity**
-- **SOC Analyst** (July 2023 - Present)
  
