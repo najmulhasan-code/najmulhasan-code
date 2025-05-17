@@ -22,7 +22,52 @@
 - Phishing Email Detection with LLMs, Phishing URL Detection 
 - Mobile Driver's License (mDL)
 - Speech Emotion Recognition (SER)
-- Lightweight Cryptography 
+- Lightweight Cryptography
+
+## Experience
+
+### Research Assistant  
+**Pembroke Undergraduate Research and Creativity Center**  
+May 2025 – Present  
+Pembroke, North Carolina, United States  
+Awarded the Undergraduate Research Fellowship – Summer (URFS) 2025 by the Pembroke Undergraduate Research and Creativity Center to conduct research on multilingual phishing scam detection using large language models (LLMs). Mentored by Dr. Prashanth BusiReddyGari and Dr. Shaohu Zhang.
+
+---
+
+### University of North Carolina at Pembroke  
+**Undergraduate Research Assistant**  
+May 2024 – Present
+Research focuses on cryptography and cybersecurity. Advisors: Dr. Prashanth BusiReddyGari and Dr. Ali Saman Tosun.
+
+**SOC Analyst** · Part-time  
+Jul 2023 – Present ·
+Pembroke, North Carolina, United States · On-site
+
+**Undergraduate Research Assistant**  
+May 2024 – Feb 2025
+Research focused on cross-linguistic speech emotion recognition (SER). Advisor: Dr. Shaohu Zhang.
+
+---
+
+### Programming Intern  
+**Emerging Technology Institute** · Internship  
+Jan 2024 – Apr 2024
+Pembroke, North Carolina, United States · Remote
+
+---
+
+### Research Assistant  
+**Pembroke Undergraduate Research and Creativity Center**  
+Jan 2024 – Apr 2024
+Pembroke, North Carolina, United States  
+Awarded the Semester-Long Undergraduate Research Fellowship (SURF) – Spring 2024 by the Pembroke Undergraduate Research and Creativity Center. Conducted research on cross-linguistic speech emotion detection, mentored by Dr. Shaohu Zhang.
+
+---
+
+### Senior Design Project Collaboration (Capstone Project): Synthetic Cyber Knowledge Graphs  
+**University of North Carolina at Pembroke/National Security Agency/Laboratory for Analytic Sciences**  
+Aug 2023 – Dec 2023
+Pembroke, North Carolina, United States
 
 ## Tech Stack
 
