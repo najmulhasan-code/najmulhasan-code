@@ -4,14 +4,13 @@
 
 <br />
 
-  <img src="https://img.shields.io/badge/Computer_Science-34495e?style=for-the-badge" alt="Computer Science"/>
-  <img src="https://img.shields.io/badge/Mathematics-9b59b6?style=for-the-badge" alt="Mathematics"/>
-  <img src="https://img.shields.io/badge/AI_&_ML-1abc9c?style=for-the-badge" alt="AI & ML"/>
-  <img src="https://img.shields.io/badge/Software_Engineering-2ecc71?style=for-the-badge" alt="Software Engineering"/>
-  <img src="https://img.shields.io/badge/Cybersecurity-e74c3c?style=for-the-badge" alt="Cybersecurity"/>
+<img src="https://img.shields.io/badge/Computer_Science-2c3e50?style=for-the-badge&logoColor=white" alt="Computer Science"/>
+<img src="https://img.shields.io/badge/Mathematics-8e44ad?style=for-the-badge&logoColor=white" alt="Mathematics"/>
+<img src="https://img.shields.io/badge/AI_&_ML-00b894?style=for-the-badge&logoColor=white" alt="AI & ML"/>
+<img src="https://img.shields.io/badge/Software_Engineering-27ae60?style=for-the-badge&logoColor=white" alt="Software Engineering"/>
+<img src="https://img.shields.io/badge/Cybersecurity-1f4068?style=for-the-badge&logoColor=white" alt="Cybersecurity"/>
 
 </div>
-
 
 ## About Me
 - Computer Science major with Mathematics minor at UNC Pembroke
