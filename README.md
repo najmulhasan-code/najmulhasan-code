@@ -36,15 +36,15 @@ Awarded the Undergraduate Research Fellowship – Summer (URFS) 2025 by the Pemb
 
 ### University of North Carolina at Pembroke  
 **Undergraduate Research Assistant**  
-May 2024 – Present
+May 2024 – Present  
 Research focuses on cryptography and cybersecurity. Advisors: Dr. Prashanth BusiReddyGari and Dr. Ali Saman Tosun.
 
 **SOC Analyst** · Part-time  
-Jul 2023 – Present ·
+Jul 2023 – Present
 Pembroke, North Carolina, United States · On-site
 
 **Undergraduate Research Assistant**  
-May 2024 – Feb 2025
+May 2024 – Feb 2025  
 Research focused on cross-linguistic speech emotion recognition (SER). Advisor: Dr. Shaohu Zhang.
 
 ---
