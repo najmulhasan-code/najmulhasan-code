@@ -1,131 +1,14 @@
-<div align="center">
+# Najmul Hasan
 
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:396afc,100:2948ff&height=200&section=header&text=Najmul%20Hasan&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=50" alt="Header" width="100%" />
+[![GitHub](https://img.shields.io/badge/GitHub-Follow-black?style=flat-square&logo=github)](https://github.com/najmulhasan-code)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=flat-square&logo=linkedin)](https://linkedin.com/in/najmulhasan-cs-math)
+[![Twitter](https://img.shields.io/badge/Twitter-Follow-1DA1F2?style=flat-square&logo=twitter)](https://x.com/_najmulhasan)
 
-<br />
+Hello! I am a senior at UNC Pembroke pursuing a BS in Computer Science with minors in Mathematics and Physics.
 
-<img src="https://img.shields.io/badge/Computer_Science-2c3e50?style=for-the-badge&logoColor=white" alt="Computer Science"/>
-<img src="https://img.shields.io/badge/Mathematics-8e44ad?style=for-the-badge&logoColor=white" alt="Mathematics"/>
-<img src="https://img.shields.io/badge/AI_&_ML-00b894?style=for-the-badge&logoColor=white" alt="AI & ML"/>
-<img src="https://img.shields.io/badge/Software_Engineering-27ae60?style=for-the-badge&logoColor=white" alt="Software Engineering"/>
-<img src="https://img.shields.io/badge/Cybersecurity-1f4068?style=for-the-badge&logoColor=white" alt="Cybersecurity"/>
+I focus on using reinforcement learning (RL) to improve reasoning in large language models (LLMs). I work with Dr. Shaohu Zhang (NC A&T, prev. UNCP) on developing better reward design for LLM reasoning. Currently, I am developing step level intrinsic calibration (SLIC), which combines process supervision with confidence measurement to train models that are both accurate and well calibrated about their uncertainty.
 
-</div>
+I also work with Dr. Prashanth BusiReddyGari on drone security applications using LLMs. Previously, I have worked on multilingual phishing email detection with LLM with Dr. BusiReddyGari and Dr. Zhang, speech emotion recognition with Dr. Zhang, phishing URL detection with LLM with Dr. BusiReddyGari, and lightweight cryptography algorithms and mobile driver's license (mDL) with Dr. BusiReddyGari and Dr. Ali Saman Tosun.
 
-## About Me
-- Computer Science major with Mathematics minor at UNC Pembroke
-- SOC Analyst at UNC Pembroke
-- Founder and President of AI@UNCP
-- Lead "HackUNCP 2025" Organizer
+I'm applying to PhD programs for Fall 2026. I'm always happy to discuss research ideas or potential collaborations. Feel free to reach out!
 
-## Research Focus
-- Multilingual Phishing Scam Detection with LLMs, Phishing URL Detection 
-- Mobile Driver's License (mDL)
-- Speech Emotion Recognition (SER)
-- Lightweight Cryptography
-
-## Experience
-
-### Research Assistant  
-**Pembroke Undergraduate Research and Creativity Center**  
-May 2025 – Present  
-Pembroke, North Carolina, United States  
-Awarded the Undergraduate Research Fellowship – Summer (URFS) 2025 by the Pembroke Undergraduate Research and Creativity Center to conduct research on multilingual phishing scam detection using large language models (LLMs). Mentored by Dr. Prashanth BusiReddyGari and Dr. Shaohu Zhang.
-
----
-
-### University of North Carolina at Pembroke  
-**Undergraduate Research Assistant**  
-May 2024 – Present  
-Research focuses on cryptography and cybersecurity. Advisors: Dr. Prashanth BusiReddyGari and Dr. Ali Saman Tosun.
-
-**SOC Analyst** · Part-time  
-Jul 2023 – Present
-Pembroke, North Carolina, United States · On-site
-
-**Undergraduate Research Assistant**  
-Sep 2023 – Present  
-1. Joined Dr. Shaohu Zhang’s lab in Fall 2023, focusing on cross-linguistic speech emotion recognition (SER).
-
-2. Awarded the Semester-Long Undergraduate Research Fellowship (SURF) – Spring 2024; conducted SER research under Dr. Zhang’s mentorship.
-
-3. Awarded the Undergraduate Research Fellowship – Summer (URFS) 2025 to conduct research on multilingual phishing detection using large language models (LLMs), co-mentored by Dr. Zhang and Dr. Prashanth BusiReddyGari.
-
-
----
-
-### Programming Intern  
-**Emerging Technology Institute** · Internship  
-Jan 2024 – Apr 2024
-Pembroke, North Carolina, United States · Remote
-
----
-
-### Research Assistant  
-**Pembroke Undergraduate Research and Creativity Center**  
-Jan 2024 – Apr 2024
-Pembroke, North Carolina, United States  
-Awarded the Semester-Long Undergraduate Research Fellowship (SURF) – Spring 2024 by the Pembroke Undergraduate Research and Creativity Center. Conducted research on cross-linguistic speech emotion detection, mentored by Dr. Shaohu Zhang.
-
----
-
-### Senior Design Project Collaboration (Capstone Project): Synthetic Cyber Knowledge Graphs  
-**University of North Carolina at Pembroke/National Security Agency/Laboratory for Analytic Sciences**  
-Aug 2023 – Dec 2023
-Pembroke, North Carolina, United States
-
-## Tech Stack
-
-### Languages
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![Java](https://img.shields.io/badge/Java-007396?style=flat-square&logo=java&logoColor=white)
-![Dart](https://img.shields.io/badge/Dart-0175C2?style=flat-square&logo=dart&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
-
-### Frameworks & Libraries
-![React Native](https://img.shields.io/badge/React_Native-20232A?style=flat-square&logo=react&logoColor=61DAFB)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
-![Keras](https://img.shields.io/badge/Keras-D00000?style=flat-square&logo=keras&logoColor=white)
-![CUDA](https://img.shields.io/badge/CUDA-76B900?style=flat-square&logo=nvidia&logoColor=white)
-![Hugging Face](https://img.shields.io/badge/Hugging_Face-FFD21E?style=flat-square&logo=huggingface&logoColor=black)
-![Angular](https://img.shields.io/badge/Angular-DD0031?style=flat-square&logo=angular&logoColor=white)
-![Django](https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white)
-![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white)
-![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-11557c?style=flat-square&logo=matplotlib&logoColor=white)
-
-### Databases
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
-![SQLite](https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white)
-
-### Cloud & DevOps
-![Google Cloud](https://img.shields.io/badge/Google_Cloud-4285F4?style=flat-square&logo=google-cloud&logoColor=white)
-![Cloudflare Pages](https://img.shields.io/badge/Cloudflare_Pages-F38020?style=flat-square&logo=cloudflare&logoColor=white)
-![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black)
-![CI/CD](https://img.shields.io/badge/CI/CD-2088FF?style=flat-square&logo=github-actions&logoColor=white)
-![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white)
-
-### Security
-![Splunk](https://img.shields.io/badge/Splunk-000000?style=flat-square&logo=splunk&logoColor=white)
-![Cisco XDR](https://img.shields.io/badge/Cisco_XDR-1BA0D7?style=flat-square&logo=cisco&logoColor=white)
-![Microsoft Defender](https://img.shields.io/badge/Microsoft_Defender-00A4EF?style=flat-square&logo=microsoft&logoColor=white)
-![Microsoft Entra ID](https://img.shields.io/badge/Microsoft_Entra_ID-0078D4?style=flat-square&logo=microsoft&logoColor=white)
-![Cisco Secure Endpoint](https://img.shields.io/badge/Cisco_Secure_Endpoint-1BA0D7?style=flat-square&logo=cisco&logoColor=white)
-![Cisco Umbrella](https://img.shields.io/badge/Cisco_Umbrella-00BCEB?style=flat-square&logo=cisco&logoColor=white)
-![Cisco Threat Response](https://img.shields.io/badge/Cisco_Threat_Response-005073?style=flat-square&logo=cisco&logoColor=white)
-![VirusTotal](https://img.shields.io/badge/VirusTotal-394EFF?style=flat-square&logo=virustotal&logoColor=white)
-![Talos](https://img.shields.io/badge/Cisco_Talos-1BA0D7?style=flat-square&logo=cisco&logoColor=white)
-
-### Operating Systems
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
-![Windows](https://img.shields.io/badge/Windows-0078D6?style=flat-square&logo=windows&logoColor=white)
