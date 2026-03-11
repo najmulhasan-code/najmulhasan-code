@@ -11,7 +11,3 @@ I am an undergraduate researcher advised by Dr. Prashanth BusiReddyGari at UNC P
 My research focuses on Natural Language Processing, specifically on understanding how large language models behave under distribution shifts, adversarial inputs, and real-world deployment constraints. I am interested in building robust NLP systems that can generalize across languages and domains.
 
 Currently, I am working on multi-agent reinforcement learning for decentralized resource coordination, investigating emergent communication patterns and fairness in cooperative AI agents.
-
-I have first-authored papers accepted to the NeurIPS 2025 LAW Workshop and IEEE CCWC 2026.
-
-I'm applying to PhD programs for Fall 2026. Feel free to reach out!
