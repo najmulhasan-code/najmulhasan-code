@@ -3,17 +3,11 @@
 **BS in Computer Science** · Minors in Mathematics & Physics · Honors Student
 University of North Carolina at Pembroke
 
----
+Hi 👋! I work at the intersection of AI safety & alignment and natural language processing. Read my latest work, DPBench: Large Language Models Struggle with Simultaneous Coordination. I'm advised by Dr. Prashanth BusiReddyGari, previously worked with Dr. Shaohu Zhang, and am currently an AI Safety Research Fellow at Algoverse.
 
-### Research
+My current work uses reinforcement learning (GRPO, QLoRA) to train LLMs as agents on classical concurrency problems like Dining Philosophers.
 
-I am an undergraduate researcher advised by Dr. Prashanth BusiReddyGari at UNC Pembroke. Previously, I worked with Dr. Shaohu Zhang (UNC Pembroke / NC A&T).
-
-My research focuses on **Natural Language Processing**, specifically understanding how large language models behave under distribution shifts, adversarial inputs, and real-world deployment constraints. I am interested in building robust NLP systems that can generalize across languages and domains.
-
-Currently, I am working on **multi-agent reinforcement learning** for decentralized resource coordination, investigating emergent communication patterns and fairness in cooperative AI agents.
-
----
+I also founded and run UNC Pembroke's AI student organization, AI@UNCP, and have organized HackUNCP 2025 and HackUNCP 2026.
 
 ### Publications
 
