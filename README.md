@@ -1,23 +1,27 @@
 # Najmul Hasan
-Hi 👋! I work at the intersection of AI safety & alignment and natural language processing. Read my latest work, CRC-Screen: Certified DNA-Synthesis Hazard Screening Under Taxonomic Shift. I was advised by Dr. Prashanth BusiReddyGari, previously worked with Dr. Shaohu Zhang, and was an AI Safety Research Fellow at Algoverse.
 
-I also founded and run UNC Pembroke's AI student organization, AI@UNCP, and have organized HackUNCP 2025 and HackUNCP 2026.
+**Language Models · AI Alignment**
 
-### Publications
+My research interests center on language models and AI alignment. I am particularly interested in the design and training of language models, including how training choices shape their capabilities and behavior, and in developing models that are more capable, reliable, and aligned.
 
-[Google Scholar](https://scholar.google.com/citations?user=YL8xF4MAAAAJ&hl=en)
+I completed a B.S. in Computer Science, with minors in Mathematics and Physics, at the University of North Carolina at Pembroke. I was an AI Safety Research Fellow at Algoverse, am currently participating in MIT AI Alignment's AI Safety Fundamentals program, and have completed BlueDot Impact's Technical AI Safety course.
 
----
+[Website](https://najmulhasan-code.github.io) · [Google Scholar](https://scholar.google.com/citations?user=YL8xF4MAAAAJ&hl=en) · [LinkedIn](https://linkedin.com/in/najmulhasan-cs-math) · [Twitter](https://x.com/_najmulhasan)
 
-### Featured Projects
+## Selected Publications
 
-| Project | Description |
-|---------|-------------|
-| [**DPBench**](https://github.com/najmulhasan-code/dpbench) | Benchmark for LLM multi-agent coordination using Dining Philosophers |
-| [**SplitComp**](https://github.com/najmulhasan-code/splitcomp) | Modeling when labs comply, evade, or split compute across jurisdictions |
-| [**SAGE**](https://github.com/najmulhasan-code/sage) | Synchronized Agents for Generalized Expertise, a multi-agent research, debate and synthesis framework |
-| [**Sift**](https://github.com/najmulhasan-code/sift) | Reads raw IT tickets and returns structured resolution paths |
+**[DPBench: Structural Determinants of Multi-Agent LLM Coordination Under Simultaneous Resource Contention](https://arxiv.org/abs/2602.13255)**  
+Najmul Hasan and Prashanth BusiReddyGari. Preprint, 2026. [Code](https://github.com/najmulhasan-code/dpbench)
 
----
+**[Benchmarking Large Language Models for Zero-shot and Few-shot Phishing URL Detection](https://arxiv.org/abs/2602.02641)**  
+Najmul Hasan and Prashanth BusiReddyGari. LAW Workshop, NeurIPS 2025.
 
-I'm always happy to discuss research ideas or potential collaborations. Feel free to reach out.
+**[Honeypot Protocol](https://arxiv.org/abs/2604.13301)**  
+Najmul Hasan. AI Control Hackathon, Apart Research, 2026. [Code](https://github.com/najmulhasan-code/honeypot-protocol)
+## Open Source
+
+**[SAGE](https://github.com/najmulhasan-code/sage)**  
+A Python framework in which language-model agents research, discuss, and synthesize answers through a structured workflow.
+
+**[Sift](https://github.com/najmulhasan-code/sift)**  
+An autonomous IT ticket triage system that produces diagnoses, resolution steps, and escalation decisions.
