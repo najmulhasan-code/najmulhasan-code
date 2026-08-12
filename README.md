@@ -1,10 +1,6 @@
-# Najmul Hasan
+My research centers on language models and AI alignment. I am particularly interested in how model design and training choices shape capabilities and behavior, and in developing models that are more capable, reliable, and aligned.
 
-**Language Models · AI Alignment**
-
-My research interests center on language models and AI alignment. I am particularly interested in the design and training of language models, including how training choices shape their capabilities and behavior, and in developing models that are more capable, reliable, and aligned.
-
-I completed a B.S. in Computer Science, with minors in Mathematics and Physics, at the University of North Carolina at Pembroke. I was an AI Safety Research Fellow at Algoverse, am currently participating in MIT AI Alignment's AI Safety Fundamentals program, and have completed BlueDot Impact's Technical AI Safety course.
+I hold a B.S. in Computer Science, with minors in Mathematics and Physics, from the University of North Carolina at Pembroke, where I worked with Dr. Prashanth BusiReddyGari and Dr. Shaohu Zhang. I was an AI Safety Research Fellow at Algoverse. I completed the AI Safety Fundamentals Fellowship (AISF) with MIT AI Alignment (MAIA) and BlueDot Impact's Technical AI Safety course.
 
 [Website](https://najmulhasan-code.github.io) · [Google Scholar](https://scholar.google.com/citations?user=YL8xF4MAAAAJ&hl=en) · [LinkedIn](https://linkedin.com/in/najmulhasan-cs-math) · [Twitter](https://x.com/_najmulhasan)
 
